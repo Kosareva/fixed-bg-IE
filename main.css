@@ -1,0 +1,15 @@
+html {
+    background: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+.first {
+    height: 400px;
+    background-image: url(image-5.jpg);
+    background-attachment: fixed;
+}
